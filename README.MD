@@ -30,4 +30,4 @@ Bem-vindo ao meu portfólio! Sou Riquelme, programador front-end especializado e
 
 ---
 
-Feito por Riquelme Guedes"# portfolioGuedes" 
+Feito por Riquelme Guedes
